@@ -1,0 +1,23 @@
+$ git init
+
+$ git add "1st.txt"
+
+$ git add "2nd.txt"
+
+$ git add "3rd.txt"
+
+$ git status
+
+$ rm "2nd.txt"
+
+$ git status
+
+$ git checkout "2nd.txt"
+
+$ git status
+
+$ git commit -m "[Ahmed Ashraf commited all requierments]"
+
+$ git remote add origin https://github.com/aahmedashraaf/Ahmed-Ashraf.git
+
+$ git push -u origin master
