@@ -21,3 +21,31 @@ $ git commit -m "[Ahmed Ashraf commited all requierments]"
 $ git remote add origin https://github.com/aahmedashraaf/Ahmed-Ashraf.git
 
 $ git push -u origin master
+
+$ git branch "ReadMe"
+
+$ git checkout "ReadMe"
+
+$ git add "README.md"
+
+$ git merge master
+
+$ git commit -m "[merged readme with master]"
+
+$ git push -u origin master
+
+$ git checkout "master"
+
+$ git add "AllMyCommands.txt"
+
+$ git commit -m "[added all my commands]"
+
+$ git push -u origin master
+
+
+
+
+
+
+
+
